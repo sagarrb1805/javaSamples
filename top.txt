@@ -2,3 +2,5 @@ abstract class
 inner class with inner static and non-static
 anonymous class (inner class)
 interface
+functional interface
+lambda
