@@ -5,10 +5,14 @@ interface Drawable{
 }
 class Rectangle implements Drawable{
     public void draw(){
-        
+        System.out.println("drawing rectangle");
     }
 }
 
 public class Main {
+    public static void main(String[] args) {
+        Drawable rec = new Rectangle();
+        rec.draw();
+    }
     
 }
