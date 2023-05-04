@@ -4,3 +4,25 @@ anonymous class (inner class)
 interface
 functional interface
 lambda
+try-Except            Throwable 
+                        exception  and error
+                        runtime exception  (sql exception i/o exception) checked ex
+            throw vs throws
+
+custom exception       
+user input
+
+
+
+Thread class
+thread priority
+threads using     Runnable interface lambda func    dead lock
+
+
+Collection interface    api
+Collections class
+
+queue     enqueue
+interface class
+comparable comparator
+
